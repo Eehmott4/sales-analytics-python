@@ -37,9 +37,7 @@ sales-analytics-python/
 ├── utils.py
 └── requirements.txt
 
-## 📊 Faturamento Mensal
 
-![Faturamento Mensal](assets/grafico_faturamento.png)
 
 ---
 
